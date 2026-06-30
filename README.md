@@ -5,10 +5,12 @@ Temporizador Pomodoro con ciclos automáticos de trabajo y descanso.
 ## 📸 Vista previa
 
 ### Modo Trabajo
-![trabajo](preview-trabajo.png)
+<img width="758" height="604" alt="image" src="https://github.com/user-attachments/assets/4697579d-817a-4f3c-b69d-f5f8ba198fc3" />
+
 
 ### Modo Descanso
-![descanso](preview-descanso.png)
+<img width="737" height="568" alt="image" src="https://github.com/user-attachments/assets/ba1a8ec1-0d1c-474e-aeb1-fc312bed5426" />
+
 
 ## 🚀 Demo
 [Ver en vivo](https://mariorh2030-arch.github.io/temporizador-pomodoro)
